@@ -1,0 +1,2 @@
+# projectsqapphtml10
+A powerful solution for modern businesses
